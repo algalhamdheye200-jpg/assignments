@@ -1,0 +1,29 @@
+Program output (3 vehicles, includes invalid type handling)
+
+Enter number of vehicles: 3
+Enter type (1-Car, 2-Bike): 1
+Enter Vehicle Number: KA01AB1234
+Enter Model: Swift
+Enter Rate per Day: 1500
+Enter Days: 3
+Enter Insurance per Day: 200
+Enter type (1-Car, 2-Bike): 5
+Invalid vehicle type. Please enter 1 or 2.
+Enter type (1-Car, 2-Bike): x
+Invalid vehicle type. Please enter 1 or 2.
+Enter type (1-Car, 2-Bike): 2
+Enter Vehicle Number: KA02CD5678
+Enter Model: Activa
+Enter Rate per Day: 500
+Enter Days: 4
+Enter type (1-Car, 2-Bike): 1
+Enter Vehicle Number: MH12XY9999
+Enter Model: Creta
+Enter Rate per Day: 2000
+Enter Days: 2
+Enter Insurance per Day: 300
+--- Rental Details ---
+Car  | KA01AB1234 | Swift | Days: 3 | Rent: 5100.0
+Bike | KA02CD5678 | Activa | Days: 4 | Rent: 1800.0
+Car  | MH12XY9999 | Creta | Days: 2 | Rent: 4600.0
+Total Rent Collected: 11500.0
