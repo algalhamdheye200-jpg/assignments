@@ -1,0 +1,13 @@
+No email on file, result not sent.
+No students in this class yet.
+0
+Marks must be a number, got: eighty
+0
+Unknown subject
+Marks saved for Priya: 85
+Current marks of Priya: 85
+Not allowed: Asha has 60% attendance, minimum is 75%
+Current marks of Asha: 0
+Invalid marks: Marks must be between 0 and 100, got: 120
+Current marks of Priya: 85
+Program finished without crashing.

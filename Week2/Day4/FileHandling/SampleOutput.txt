@@ -1,0 +1,7 @@
+Employees written to employees.dat
+Employees read from employees.dat:
+Employee [empId=101, empName=Aisha Khan, department=Engineering, salary=85000.0]
+Employee [empId=102, empName=Omar Hassan, department=Finance, salary=72000.0]
+Employee [empId=103, empName=Priya Sharma, department=HR, salary=64000.0]
+Employee [empId=104, empName=Daniel Lee, department=Marketing, salary=68000.0]
+Employee [empId=105, empName=Sara Ali, department=Engineering, salary=91000.0]
